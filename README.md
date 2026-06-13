@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-MYMORI AI Platform은 감성 분석(Emotion Analysis), 지식 검색(RAG), 멀티 에이전트 협업(Multi-Agent System), MCP(Model Context Protocol) 연동을 통합한 AI 기반 SNS 서비스 플랫폼입니다.
+MYMORI AI SNS Platform은 감성 분석(Emotion Analysis), 지식 검색(RAG), 멀티 에이전트 협업(Multi-Agent System), MCP(Model Context Protocol) 연동을 통합한 AI 기반 SNS 서비스 플랫폼입니다.
 
 사용자의 텍스트, 이미지 및 다양한 데이터를 분석하여 감정과 의미를 추론하고, AI 에이전트들이 협력하여 보다 정확한 결과와 인사이트를 제공하여 그를 활용한 자기만의 스토리를 만들어 가는 것을 목표로 합니다.
 
