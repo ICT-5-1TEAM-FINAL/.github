@@ -6,7 +6,7 @@
 ![AI](https://img.shields.io/badge/AI-MultiAgent-green)
 ![RAG](https://img.shields.io/badge/RAG-Enabled-orange)
 ![MCP](https://img.shields.io/badge/MCP-Supported-purple)
-![License](https://img.shields.io/badge/License-Apache%202.0-red)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ---
 
@@ -212,7 +212,11 @@ ICT 5기 1팀 Final Project
 
 ## 📄 License
 
-Apache License 2.0
+MIT License
+
+Copyright (c) 2026 ICT-5-1TEAM
+
+This project is licensed under the MIT License.
 
 ---
 
